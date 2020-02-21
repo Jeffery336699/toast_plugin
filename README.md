@@ -3,7 +3,7 @@
 Android原生Toast插件
 
 # 效果图
-
+![](https://github.com/Jeffery336699/toast_plugin/blob/master/4.png?raw=true)
 
 ## Getting Started
 
